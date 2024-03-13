@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(51, 211, 3);
+}
+
+.about2 h2,
+.services h2,
+.ministries h2,
+.events h2,
+.contact h2 {  display: inline-block;
+    padding: 10px 20px;
+    border-radius: 50%;
+    background-color: #FF0000; /* Red background color */
+    color: #fff; /* White text color */
+    margin-bottom: 20px; /* Add some space between headers */
+}
+
+
